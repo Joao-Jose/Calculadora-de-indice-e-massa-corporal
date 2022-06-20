@@ -1,1 +1,0 @@
-# Calculadora-de-indice-e-massa-corporal
